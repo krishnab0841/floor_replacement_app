@@ -1,5 +1,7 @@
 # Floor Replacement App
 
+🧠 Virtual Office Floor Planner (AI Edition)
+
 An AI-powered application that allows users to replace floors in images using semantic segmentation. Built with Python, PyTorch, and Gradio.
 
 ## 🚀 Features
